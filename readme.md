@@ -79,4 +79,9 @@
 ![团队展示](https://www.codeshop.fun/Typora-Images/202311102304148.png)
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**宠物**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
