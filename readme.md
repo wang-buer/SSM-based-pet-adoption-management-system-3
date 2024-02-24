@@ -28,7 +28,7 @@
 ## 获取方式
 
 下方扫一扫关注后，后台回复关键词：**宠物**，查看导入教程视频、sql脚本和源码等
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 ## 4、功能介绍
 
 ### 4.1 登录
@@ -83,5 +83,5 @@
 
 
 
- ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
